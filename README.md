@@ -28,7 +28,7 @@ The project demonstrates concepts such as:
 
 **Folder:** `YouTube_video_analysing_chatbot/`
 
-### 3. 🎥 Ai Agent using LangChain 
+### 3. 🎥 AI Agents using LangChain 
 
 simple Ai agents using langchain 
 
