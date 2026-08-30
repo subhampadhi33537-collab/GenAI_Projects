@@ -1,6 +1,6 @@
 # 🤖 GenAI Projects
 
-A collection of beginner-friendly **Generative AI projects** built while learning **LangChain, RAG, LLMs, and AI application development**.
+A collection of beginner-friendly **Generative AI projects** built while learning **LangChain, RAG, LLMs, and AI application development**
 
 These projects focus on understanding how modern LLM-based applications work through practical implementations using Python and LangChain.
 
