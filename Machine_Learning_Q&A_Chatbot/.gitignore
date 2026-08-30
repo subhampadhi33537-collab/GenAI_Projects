@@ -1,0 +1,11 @@
+.venv/
+venv/
+env/
+.env
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+books/book1.pdf
+books/book2.pdf
+books/book3.pdf
+books/*.pdf
