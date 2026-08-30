@@ -28,6 +28,13 @@ The project demonstrates concepts such as:
 
 **Folder:** `YouTube_video_analysing_chatbot/`
 
+### 3. 🎥 Ai Agent using LangChain 
+
+simple Ai agents using langchain 
+
+LLM+ Tools
+**Folder** `Langchain_AI_agents`
+
 ## 🛠️ Tech Stack
 
 * **Python**
