@@ -4,3 +4,5 @@ vectorstore/
 # OS files
 .DS_Store
 Thumbs.db
+
+vectorstore/chroma.sqlite3
