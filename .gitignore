@@ -2,6 +2,13 @@
 venv/
 env/
 .env
+
+
+
 __pycache__/
 .ipynb_checkpoints/
 .vscode/
+
+
+Projects/Fake_news_predicion/news.csv
+Projects/Fake_news_predicion/vectorstore
