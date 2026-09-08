@@ -45,20 +45,7 @@ LLM+ Tools
 * **Jupyter Notebook**
 * **APIs & External Tools**
 
-## 📂 Repository Structure
 
-```text
-GenAI_Projects/
-│
-├── Currency_Conveter/
-│   └── main.ipynb
-│
-├── YouTube_video_analysing_chatbot/
-│   └── app.ipynb
-│
-├── .gitignore
-└── README.md
-```
 
 ## ⚙️ Installation
 
